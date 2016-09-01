@@ -3,6 +3,7 @@
 
 * {
   box-sizing: border-box;
+  /*background-color:black;*/
 }
 
 body {
@@ -10,7 +11,6 @@ body {
   background-repeat: repeat;
   background-color: black;
 }
-
 
 
 header {
@@ -38,7 +38,7 @@ img.crystal {
 
 
 #goal, #score, #wins, #losses, #status {
-  color: white;
+  color: green;
   font-size: 50px;
   font-family: 'Fascinate Inline', cursive;
 }
